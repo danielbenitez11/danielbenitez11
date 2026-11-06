@@ -142,9 +142,3 @@ Most of it lives in private company repositories. These are the case studies, wi
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak">
 </p>
 
-<p align="center">
-  <b>Methodologies</b><br><br>
-  <img src="https://img.shields.io/badge/Scrum-555555?style=for-the-badge" alt="Scrum">
-  <img src="https://img.shields.io/badge/TDD-555555?style=for-the-badge" alt="TDD">
-  <img src="https://img.shields.io/badge/ODD-555555?style=for-the-badge" alt="ODD">
-</p>
