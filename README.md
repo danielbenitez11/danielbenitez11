@@ -63,11 +63,25 @@ Most of it lives in private company repositories. These are the case studies, wi
 
 ## Impact in numbers
 
-| | |
-|---|---|
-| **-85%** | infrastructure cost after consolidating 35 AWS servers into one Hetzner host |
-| **96%** | scraper success rate on a custom scheduler |
-| **~EUR 50k / year** | estimated saving from replacing 18 UiPath bots with an in-house RPA |
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>-85%</h3>
+      infrastructure cost<br>
+      <sub>35 AWS servers consolidated into one Hetzner host</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>96%</h3>
+      scraper success rate<br>
+      <sub>on a custom scheduler</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>~EUR 50k / year</h3>
+      estimated saving<br>
+      <sub>18 UiPath bots replaced by an in-house RPA</sub>
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
@@ -75,14 +89,7 @@ Most of it lives in private company repositories. These are the case studies, wi
   <img src="https://skillicons.dev/icons?i=python,js,cpp,java,cs,php,fastapi,django,nodejs,react,spring,dotnet,laravel,postgres,mysql,mongodb,aws,linux,githubactions,selenium,wordpress&perline=7" alt="Core technologies">
 </p>
 
-| Area | Technologies |
-|---|---|
-| **AI** | `LangChain` `MCP` `Ollama` `Claude Code` `Multi-agent systems` |
-| **Scraping** | `Selenium` `Playwright` `Camoufox` `Proxies` `CAPTCHA handling` |
-| **Languages** | `Python` `JavaScript` `C++` `Java` `C#` `PHP` |
-| **Frameworks** | `FastAPI` `Django` `Node.js` `React` `Spring` `.NET` `Laravel` |
-| **Databases** | `PostgreSQL` `MySQL` `MariaDB` `MongoDB` `Oracle` |
-| **Cloud and DevOps** | `AWS` `Hetzner` `Linux` `GitHub Actions` `Celery` |
-| **Security** | `SSO` `Authentik` `Keycloak` |
-| **Methodologies** | `Scrum` `TDD` `ODD` |
-| **Other** | `UiPath` `Odoo` `WordPress` `Drupal` |
+- **AI and scraping:** LangChain, MCP, Ollama, Claude Code, multi-agent systems, Selenium, Playwright, Camoufox, proxies, CAPTCHA handling
+- **Languages and frameworks:** Python, JavaScript, C++, Java, C#, PHP, FastAPI, Django, Node.js, React, Spring, .NET, Laravel
+- **Data and cloud:** PostgreSQL, MySQL, MariaDB, MongoDB, Oracle, AWS, Hetzner, Linux, GitHub Actions, Celery
+- **Security, process and other:** SSO, Authentik, Keycloak, Scrum, TDD, ODD, UiPath, Odoo, WordPress, Drupal
