@@ -127,15 +127,6 @@ Most of it lives in private company repositories. These are the case studies, wi
 </p>
 
 <p align="center">
-  <b>Databases</b><br><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" alt="Oracle">
-</p>
-
-<p align="center">
   <b>Cloud &amp; DevOps</b><br><br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS">
   <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner">
@@ -149,13 +140,6 @@ Most of it lives in private company repositories. These are the case studies, wi
   <img src="https://img.shields.io/badge/SSO-555555?style=for-the-badge" alt="SSO">
   <img src="https://img.shields.io/badge/Authentik-FD4B2D?style=for-the-badge&logo=authentik&logoColor=white" alt="Authentik">
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak">
-</p>
-
-<p align="center">
-  <b>CMS &amp; Business Platforms</b><br><br>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-  <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal">
 </p>
 
 <p align="center">
