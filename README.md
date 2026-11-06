@@ -11,13 +11,11 @@
 
 ---
 
-## Impact in numbers
+## About
 
-| | |
-|---|---|
-| **-85%** | infrastructure cost after consolidating 35 AWS servers into one Hetzner host |
-| **96%** | scraper success rate on a custom scheduler |
-| **~EUR 50k / year** | estimated saving from replacing 18 UiPath bots with an in-house RPA |
+I lead core projects and AI integration. I design agentic systems with local LLMs and MCP, large-scale scraping platforms in Python and JavaScript, and the core infrastructure behind them, including SSO. I have cut infrastructure costs by more than 85% and I lead development teams with Scrum, focused on quality, automation and robust processes.
+
+I am ambitious, demanding about the quality of my own work, and I enjoy working in a team to take each project beyond what was planned.
 
 ## Work I have shipped
 
@@ -64,23 +62,72 @@ Most of it lives in private company repositories. These are the case studies, wi
 - Perception and control software for a driverless vehicle in Python and C++, autonomous navigation algorithms and LIDAR 3D mapping, with ARUS at the University of Seville.
 </details>
 
-## How I work
+## Impact in numbers
 
-Small verified steps, tests before behaviour, honest reporting (a failed check is reported as failed), and documentation next to the code. I care more about why something broke than about making the symptom go away.
+| | |
+|---|---|
+| **-85%** | infrastructure cost after consolidating 35 AWS servers into one Hetzner host |
+| **96%** | scraper success rate on a custom scheduler |
+| **~EUR 50k / year** | estimated saving from replacing 18 UiPath bots with an in-house RPA |
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+**AI**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
+![Multi-agent](https://img.shields.io/badge/Multi--agent_systems-555555?style=flat)
+
+**Scraping**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Camoufox](https://img.shields.io/badge/Camoufox-FF7139?style=flat&logo=firefoxbrowser&logoColor=white)
+![Proxies](https://img.shields.io/badge/Proxies-555555?style=flat)
+![CAPTCHA](https://img.shields.io/badge/CAPTCHA_handling-555555?style=flat)
 
-**AI:** LangChain, MCP, Ollama, Claude Code, multi-agent systems
-**Scraping:** Selenium, Playwright, Camoufox, proxies, CAPTCHA handling
-**Backend:** FastAPI, Django, Node.js, Spring, .NET, Laravel
-**Data and ops:** PostgreSQL, MySQL, MongoDB, Linux, Hetzner, AWS, Celery, Authentik, Keycloak
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Frameworks**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+**Cloud and DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+
+**Security**
+![Authentik](https://img.shields.io/badge/Authentik-FD4B2D?style=flat&logo=authentik&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
+
+**Methodologies**
+![Scrum](https://img.shields.io/badge/Scrum-555555?style=flat)
+![TDD](https://img.shields.io/badge/TDD-555555?style=flat)
+![ODD](https://img.shields.io/badge/ODD-555555?style=flat)
+
+**Other**
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
