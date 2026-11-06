@@ -63,33 +63,90 @@ Most of it lives in private company repositories. These are the case studies, wi
 
 ## Impact in numbers
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>-85%</h3>
-      infrastructure cost<br>
-      <sub>35 AWS servers consolidated into one Hetzner host</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>96%</h3>
-      scraper success rate<br>
-      <sub>on a custom scheduler</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>~EUR 50k / year</h3>
-      estimated saving<br>
-      <sub>18 UiPath bots replaced by an in-house RPA</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## Stack
+| Result | Context |
+|:---:|:---|
+| **-85%** | infrastructure cost after consolidating 35 AWS servers into one Hetzner host |
+| **96%** | scraper success rate on a custom scheduler |
+| **~EUR 50k / year** | estimated saving from replacing 18 UiPath bots with an in-house RPA |
+
+</div>
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,cs,php,fastapi,django,nodejs,react,spring,dotnet,laravel,postgres,mysql,mongodb,aws,linux,githubactions,selenium,wordpress&perline=7" alt="Core technologies">
+  <b>AI &amp; Agent Systems</b><br><br>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
 </p>
 
-- **AI and scraping:** LangChain, MCP, Ollama, Claude Code, multi-agent systems, Selenium, Playwright, Camoufox, proxies, CAPTCHA handling
-- **Languages and frameworks:** Python, JavaScript, C++, Java, C#, PHP, FastAPI, Django, Node.js, React, Spring, .NET, Laravel
-- **Data and cloud:** PostgreSQL, MySQL, MariaDB, MongoDB, Oracle, AWS, Hetzner, Linux, GitHub Actions, Celery
-- **Security, process and other:** SSO, Authentik, Keycloak, Scrum, TDD, ODD, UiPath, Odoo, WordPress, Drupal
+<p align="center">
+  <b>Scraping &amp; Automation</b><br><br>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright">
+  <img src="https://img.shields.io/badge/Camoufox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Camoufox">
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath">
+</p>
+
+<p align="center">
+  <b>Languages</b><br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</p>
+
+<p align="center">
+  <b>Backend &amp; Frameworks</b><br><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+</p>
+
+<p align="center">
+  <b>Databases</b><br><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" alt="Oracle">
+</p>
+
+<p align="center">
+  <b>Cloud &amp; DevOps</b><br><br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS">
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery">
+</p>
+
+<p align="center">
+  <b>Security</b><br><br>
+  <img src="https://img.shields.io/badge/SSO-555555?style=for-the-badge" alt="SSO">
+  <img src="https://img.shields.io/badge/Authentik-FD4B2D?style=for-the-badge&logo=authentik&logoColor=white" alt="Authentik">
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak">
+</p>
+
+<p align="center">
+  <b>CMS &amp; Business Platforms</b><br><br>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal">
+</p>
+
+<p align="center">
+  <b>Methodologies</b><br><br>
+  <img src="https://img.shields.io/badge/Scrum-555555?style=for-the-badge" alt="Scrum">
+  <img src="https://img.shields.io/badge/TDD-555555?style=for-the-badge" alt="TDD">
+  <img src="https://img.shields.io/badge/ODD-555555?style=for-the-badge" alt="ODD">
+</p>
