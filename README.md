@@ -65,11 +65,25 @@ Most of it lives in private company repositories. These are the case studies, wi
 
 <div align="center">
 
-| | |
-|---|---|
-| **-85%** | infrastructure cost after consolidating 35 AWS servers into one Hetzner host |
-| **96%** | scraper success rate on a custom scheduler |
-| **~EUR 50k / year** | estimated saving from replacing 18 UiPath bots with an in-house RPA |
+<table>
+  <tr>
+    <td align="center" width="260">
+      <h3>-85%</h3>
+      infrastructure cost<br>
+      <sub>35 AWS servers consolidated into one Hetzner host</sub>
+    </td>
+    <td align="center" width="260">
+      <h3>96%</h3>
+      scraper success rate<br>
+      <sub>on a custom scheduler</sub>
+    </td>
+    <td align="center" width="260">
+      <h3>~EUR 50k / year</h3>
+      estimated saving<br>
+      <sub>18 UiPath bots replaced by an in-house RPA</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
