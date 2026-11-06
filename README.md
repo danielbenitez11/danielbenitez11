@@ -1,5 +1,7 @@
+<h1 align="center">Scraping at scale and AI integration</h1>
+
 <p align="center">
-  <img src="assets/banner.svg" alt="Scraping at scale, AI integration and the infrastructure that keeps both running. Technical lead, Andalusia, Spain, remote, hybrid or on-site." width="100%">
+  Technical lead &middot; Andalusia, Spain &middot; remote, hybrid or on-site
 </p>
 
 <p align="center">
