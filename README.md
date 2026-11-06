@@ -1,6 +1,5 @@
 <p align="center">
-  <b>Scraping at scale, AI integration and the infrastructure that keeps both running.</b><br>
-  Technical lead &middot; Andalusia, Spain &middot; remote, hybrid or on-site
+  <img src="assets/banner.svg" alt="Scraping at scale, AI integration and the infrastructure that keeps both running. Technical lead, Andalusia, Spain, remote, hybrid or on-site." width="100%">
 </p>
 
 <p align="center">
