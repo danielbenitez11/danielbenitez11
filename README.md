@@ -40,17 +40,21 @@ I am ambitious, demanding about the quality of my own work, and I enjoy working 
   </tr>
 </table>
 
+### Other interesting projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/danielbenitez11/RaspberryGarden">RaspberryGarden</a></b><br>
-      <sub>Smart garden control panel with a soil-moisture sensor on a Raspberry Pi. Final degree project.</sub><br>
-      <sub><b>Laravel · PHP · Raspberry Pi · IoT</b></sub>
+      <h4><a href="https://github.com/danielbenitez11/RaspberryGarden">RaspberryGarden</a></h4>
+      Smart garden control panel with a soil-moisture sensor on a Raspberry Pi. Final degree project.
+      <br><br>
+      <b>Laravel · PHP · Raspberry Pi · IoT</b>
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/danielbenitez11/instructor-station">Instructor Station</a></b><br>
-      <sub>Flight simulator instructor station: live telemetry, controls and failure injection over a test-driven flight model.</sub><br>
-      <sub><b>C# · WPF · MVVM · xUnit</b></sub>
+      <h4><a href="https://github.com/danielbenitez11/instructor-station">Instructor Station</a></h4>
+      Flight simulator instructor station: live telemetry, controls and failure injection over a test-driven flight model.
+      <br><br>
+      <b>C# · WPF · MVVM · xUnit</b>
     </td>
   </tr>
 </table>
