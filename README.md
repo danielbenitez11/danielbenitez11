@@ -17,6 +17,31 @@ I lead core projects and AI integration. I design agentic systems with local LLM
 
 I am ambitious, demanding about the quality of my own work, and I enjoy working in a team to take each project beyond what was planned.
 
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/danielbenitez11/f5-lab">F5 Lab</a></h3>
+      How WAF and anti-bot layers treat a real browser, measured instead of guessed: CDP-driven Chrome, fingerprint control, vendor-neutral block detection and a one-page diagnostic tool.
+      <br><br>
+      <b>Python · Chrome DevTools Protocol · pytest</b>
+      <br><br>
+      <a href="https://danielbenitez11.github.io/f5-lab/">Read the study</a> · <a href="https://github.com/danielbenitez11/f5-lab">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/danielbenitez11/gestor-finanzas">Finance Manager</a></h3>
+      A deployed personal finance app: transactions, subscriptions and loans that charge themselves without ever duplicating a month, shared-expense debts, charts and an admin panel.
+      <br><br>
+      <b>Next.js · TypeScript · Prisma · Turso</b>
+      <br><br>
+      Backend also ported to .NET: <a href="https://github.com/danielbenitez11/finanzas-api">finanzas-api</a> (ASP.NET Core · EF Core · Clean Architecture)
+    </td>
+  </tr>
+</table>
+
+**Also:** [RaspberryGarden](https://github.com/danielbenitez11/RaspberryGarden) (Laravel + Raspberry Pi soil sensor, final degree project) · [Instructor Station](https://github.com/danielbenitez11/instructor-station) (C# / WPF flight simulator instructor station)
+
 ## Work I have shipped
 
 Most of it lives in private company repositories. These are the case studies, with the engineering that matters and none of the internals.
@@ -35,7 +60,7 @@ Most of it lives in private company repositories. These are the case studies, wi
 - **Problem:** recurring blocks from enterprise WAFs that looked random.
 - **Found, with evidence:** blocks tied to the session cookie and carried over by persistent browser profiles; a bare 429 that was a WAF verdict, not a rate limit; a device fingerprint banned while the IP stayed clean; country filters that silently passed everything because the exit IP was geolocated from the wrong side of the proxy.
 - **Built:** detection by response body (never status alone), fail-fast on challenge states, and diagnostic capture of page, HTML and request statuses.
-- **Status:** being extracted into an open, anonymised research repository.
+- **Status:** published as an open, anonymised research repository: [F5 Lab](https://github.com/danielbenitez11/f5-lab).
 </details>
 
 <details>
