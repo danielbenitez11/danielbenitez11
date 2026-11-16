@@ -40,7 +40,20 @@ I am ambitious, demanding about the quality of my own work, and I enjoy working 
   </tr>
 </table>
 
-**Also:** [RaspberryGarden](https://github.com/danielbenitez11/RaspberryGarden) (Laravel + Raspberry Pi soil sensor, final degree project) · [Instructor Station](https://github.com/danielbenitez11/instructor-station) (C# / WPF flight simulator instructor station)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/danielbenitez11/RaspberryGarden">RaspberryGarden</a></b><br>
+      <sub>Smart garden control panel with a soil-moisture sensor on a Raspberry Pi. Final degree project.</sub><br>
+      <sub><b>Laravel · PHP · Raspberry Pi · IoT</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/danielbenitez11/instructor-station">Instructor Station</a></b><br>
+      <sub>Flight simulator instructor station: live telemetry, controls and failure injection over a test-driven flight model.</sub><br>
+      <sub><b>C# · WPF · MVVM · xUnit</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## Work I have shipped
 
